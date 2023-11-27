@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="StackExchange.Redis" Version="2.6.80" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ETicaret.DataAccessLayer\ETicaret.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\ETicaret.EntityLayer\ETicaret.EntityLayer.csproj" />
+  </ItemGroup>
+
+</Project>

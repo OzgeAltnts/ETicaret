@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zEHZ0jHqRrEx4nMKRYGr8ABOkJqiIyN2+9tbSzFs8NnMf2WUSxrv67upMnC8HFy3aAo20L+Hc0ZKd1ROIqPBTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\canda\\Desktop\\HR210037-Özge-Altıntaş (4)\\Eticaret2022Guz\\ETicaret.Web\\ETicaret.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\canda\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\canda\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\canda\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\canda\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\canda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\canda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
